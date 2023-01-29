@@ -21,7 +21,7 @@ Have a correction? Tell me in an [issue](https://github.com/Lentern/Corrections/
 * I failed to clarify that the stuttering bug was caused by a glitch in the game's rendering engine. I was a little bit to vague when I said "it was a visual glitch." (thanks, [Sam Holland](https://www.youtube.com/channel/UCDAlBb_gXZKOilekvtGjBWg) ([link](https://www.youtube.com/watch?v=ExqfNJivDYA&lc=UgzzKxnBXXG3cvBIubt4AaABAg)))
 
 ## Beating the Hardest Version of Minecraft (PART 1) ([link](https://www.youtube.com/watch?v=iy1t-AnpFGY))
-* This is the first video where I began rendering my videos in 1440p. YouTubs allocates more data (higher bitrates) to higher quality videos so they will look better on YouTube. Watch in that quality if your bandwidth approves.
+* This is the first video where I began rendering my videos in 1440p. YouTubs allocates more data (higher bitrates) to higher resolution videos so they will look better on YouTube. I recommend watching my videos in 1440p resolution (or higher, if applicible) if your bandwidth allows.
 
 ## Beating Minecraft Hardcore Mode with Only Stone Tools (PART 2) ([link](https://www.youtube.com/watch?v=yJpjw3mq_SI))
 * There was a weird black screen at [9:41](https://www.youtube.com/watch?v=yJpjw3mq_SI&t=581s) that slipped into the render. This is an error, you can ignore it.
@@ -30,4 +30,4 @@ Have a correction? Tell me in an [issue](https://github.com/Lentern/Corrections/
 * The microphone audio and the game audio are desynced slightly in this video because I recorded my microphone audio with a separate program. I didn't line up the audio properly and this is my fault.
 
 ## This Resource Pack Fixes Minecraft ([link](https://www.youtube.com/watch?v=x8CY5Kjfefg))
-* The pack has been rewritten. Please watch the new video covering it and you can download it here.
+* The pack has been rewritten. You should watch [the new video covering it](https://www.youtube.com/watch?v=SYeWRhQd9Ro) and you can download it [here](https://github.com/Lentern/Texture-Updates/releases/latest).
