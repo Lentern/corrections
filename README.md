@@ -11,7 +11,7 @@ Have a correction? Tell me in an [issue](https://github.com/Lentern/Corrections/
 * The text at [14:22](https://www.youtube.com/watch?v=qnAt-bOY1_8&t=862s) should say "Disabling Chat Reporting", I just messed up a text attribute in the editing.
 
 ## Minecraft Hardcore - The Beginning ([link](https://www.youtube.com/watch?v=-Z222E-7tk0))
-* I have made this video unlisted because I don't really feel like carrying this series on. I don't have a whole lot of motivation. Lentwo video on this soon™.
+* I have made this video unlisted because I don't really feel like carrying this series on. I don't have a whole lot of motivation. I made [a Lentwo video explaining it](https://www.youtube.com/watch?v=geiVnrtE2zY) and the [world download is available too](https://drive.google.com/file/d/1J5j4CH3Fi1aq5nmoiAnfidTngCB2wy9v).
 
 ## The COMPLETE History of Minecraft's Far Lands (2009-2022) ([link](https://www.youtube.com/watch?v=ExqfNJivDYA))
 * At [5:27](https://www.youtube.com/watch?v=ExqfNJivDYA&t=327s), I made a mistake saying that terrain past 32 million was not solid. In this version, it was 16777216 instead because the limit was unintentional. Any boundaries at a clean number like 30 million or 32 million are manually added. The limits at powers of two are typically bugs. I also mentioned this at [5:01](https://www.youtube.com/watch?v=ExqfNJivDYA&t=301s). (thanks, [Far lands investigator](https://www.youtube.com/channel/UCrMgOfAQSf2cmgf0DVMC3lA) ([link](https://www.youtube.com/watch?v=ExqfNJivDYA&lc=UgxphaFi3-4fR2FKpBl4AaABAg)))
