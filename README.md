@@ -1,10 +1,13 @@
 # Corrections/Additional Information for Lentern Videos
-This includes more information and corrections that people may need to know about my videos. YouTube removed annotations a long time ago and there's sadly  no other proper way for me to do this.
+This includes more information and corrections that people may need to know about my videos. YouTube removed annotations a long time ago and there's sadly no other proper way for me to do this.
 
 Have a correction? Tell me in an [issue](https://github.com/Lentern/Corrections/issues) or leave a comment on the video.
 
 ## Minecraft Advancement Race... ([link](https://www.youtube.com/watch?v=v7vv567U08E))
 * At [19:20](https://youtu.be/v7vv567U08E?t=1160), the chat is supposed to be blurred for a few seconds but it isn't. The only reason that I was blurring the chat in the first place was to reduce confusion about the command blocks involved in this challenge. If you watch the tutorial on how to set it up, you may understand. I just didn't want the casual viewer to be confused why there were a bunch of advancements in the chat already.
+
+## The Secrets of the Minecraft F3 Menu ([link](https://www.youtube.com/watch?v=C4iw6P7Y9Go))
+* At [2:36](https://www.youtube.com/watch?v=C4iw6P7Y9Go&t=156s), the chunk to dig down into is the south-east chunk, you don't need to check all 4 (thanks, [LeftMyGame](https://www.youtube.com/channel/UCLdXVoLuss7Byg0vVDPDDfQ)) ([link](https://www.youtube.com/watch?v=C4iw6P7Y9Go&lc=UgxXUNKD1y9tA-TA2mJ4AaABAg))
 
 ## The Fallout of the Minecraft Chat Report System ([link](https://www.youtube.com/watch?v=qnAt-bOY1_8))
 * It should be noted that **this video is sort of a reupload.** The original video did not contain the amount of information I was looking for and there were some parts I wanted to change. More information is available [here](https://www.youtube.com/post/UgkxSdi6waQMUD10uN04ajVLNJJzz4CZH84F) and the original video is available [here](https://www.youtube.com/watch?v=Twnj0t-neqo).
