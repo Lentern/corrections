@@ -23,9 +23,6 @@ Have a correction? Tell me in an [issue](https://github.com/Lentern/Corrections/
 * At [11:26](https://www.youtube.com/watch?v=ExqfNJivDYA&t=686s), "It can actually be seen when teleporting in the negative direction on only one axis (i. e. -25101648 150 1 or 1 150 -25101648) in the form of minor changes in the artifacts of the Edge Far Lands." (thanks, [Allam A.](https://www.youtube.com/channel/UC4B9cOO6KxTDVnnbvRbDJGw) ([link](https://www.youtube.com/watch?v=ExqfNJivDYA&lc=Ugz83mbqQ9myVhaOWmx4AaABAg)))
 * I failed to clarify that the stuttering bug was caused by a glitch in the game's rendering engine. I was a little bit to vague when I said "it was a visual glitch." (thanks, [Sam Holland](https://www.youtube.com/channel/UCDAlBb_gXZKOilekvtGjBWg) ([link](https://www.youtube.com/watch?v=ExqfNJivDYA&lc=UgzzKxnBXXG3cvBIubt4AaABAg)))
 
-## Beating the Hardest Version of Minecraft (PART 1) ([link](https://www.youtube.com/watch?v=iy1t-AnpFGY))
-* This is the first video where I began rendering my videos in 1440p. YouTubs allocates more data (higher bitrates) to higher resolution videos so they will look better on YouTube. I recommend watching my videos in 1440p resolution (or higher, if applicible) if your bandwidth allows.
-
 ## Beating Minecraft Hardcore Mode with Only Stone Tools (PART 2) ([link](https://www.youtube.com/watch?v=yJpjw3mq_SI))
 * There was a weird black screen at [9:41](https://www.youtube.com/watch?v=yJpjw3mq_SI&t=581s) that slipped into the render. This is an error, you can ignore it.
 
